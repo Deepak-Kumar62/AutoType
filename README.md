@@ -30,7 +30,7 @@ To run this project locally, you need a modern web browser like Google Chrome, M
 
 ## YouTube Tutorial
 
-For a step-by-step tutorial on how to create this project, check out our [Anurag Singh ProCodrr](https://www.youtube.com/watch?v=YCDeOT7DRnI&t=272s).
+For a step-by-step tutorial on how to create this project, check out [Anurag Singh ProCodrr ](https://www.youtube.com/watch?v=YCDeOT7DRnI&t=272s).
 
 ## Contributing
 
